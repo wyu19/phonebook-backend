@@ -1,0 +1,7 @@
+POST https://phonebook-backend-wibu.onrender.com/api/persons
+Content-Type: application/json
+
+{
+    "name": "Bob",
+    "number": "123456"
+}
